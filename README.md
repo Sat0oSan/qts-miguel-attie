@@ -1,2 +1,2 @@
 # qts-miguel-attie
-Aulas de Programação Mobile II com o professor João Siles e Najara
+Aulas de Qualidade e Teste de Software - João Siles e Najara
